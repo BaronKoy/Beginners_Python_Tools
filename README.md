@@ -1,6 +1,6 @@
-# Beginners_Python_Tools
+# quick test
 
-These tools were created to perform simple tasks. Written in order to practice python at a beginners level.
+These tools were created to perform simple tasks. Testing python
 
 #BMI calculator example
 
